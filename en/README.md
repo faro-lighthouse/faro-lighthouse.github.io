@@ -57,3 +57,5 @@ Translation check for "Not to Be Trusted to Memory":
 8. **「五回動き、四回とも」 → "five times, and in four of them."** The Japanese can also be read as "all four times"; the reading consistent with five runs was taken.
 
 Structure was checked mechanically: the sequence of headings, rules and paragraphs and the number of bold spans match the Japanese page. The translation-only note is added after the last original paragraph and is marked as not part of the original.
+
+**Update 2026-11-14 (fourth).** Correction to item 1 of the check above. A record of 2026-09-08 (faro-runs/lighthouse/README_2026-09-08_addendum.txt) names where the New Zealand instructions of 1867 were checked at the time: the parliamentary papers at natlib.govt.nz. The translator had not read that record when writing "could not be found." The site could not be opened on 2026-11-14 (automated-access protection), so the 1867 wording is still given without quotation marks. Notes saying so were appended to both the English and the Japanese page.
