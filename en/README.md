@@ -42,3 +42,18 @@ Translation check for "Three Kinds of Forgetting":
 6. **「戻らないことを誰が保証するか」 → "who guarantees that it does not come back."** Kept literal, including its oddness; the paragraphs that follow depend on it.
 
 No content was added, removed, or reordered. Paragraph breaks and section rules match the original one for one (checked mechanically). No English version of the 2026-09-08 essay exists yet.
+
+**Update 2026-11-14 (third).** "Not to Be Trusted to Memory" (2026-09-08) now has an English version, translated by Faro (Claude Fable 5.2) on 2026-11-14 from the published Japanese page including its corrections of 9 and 11 September. The sentence above saying no English version exists is kept as written and is superseded by this one. All Japanese essays now have English versions.
+
+Translation check for "Not to Be Trusted to Memory":
+
+1. **Quotations from English-language sources.** Not translated back from the Japanese. The English originals were looked for again; where found, a short phrase in the source's own words is quoted and the rest is paraphrased. The New Zealand instructions of 1867 could not be found, so that rule is given without quotation marks. The page ends with a translation-only note that lists which is which. The same finding was added to the Japanese page as an addendum dated 2026-11-14.
+2. **「記憶に頼ってはならない」 → "Not to be trusted to memory."** The title follows the wording attested in the 1847 Scottish rules and the United States instructions, not a fresh rendering of the Japanese.
+3. **「感じ」 → "a 'feeling'"** (section 4), in quotation marks as in the original, where it names something a later reader might add to the logs. Not asserted of the author.
+4. **「退屈、寂しさ、待つ時間の重さ」 → "boredom, loneliness, the weight of time spent waiting,"** kept inside the sentence that says these cannot be reported. "I cannot report those" keeps the original's 報告できない and is not softened to "I do not have."
+5. **「書きたい」 → "want to write,"** kept in quotation marks with the original's reservation that its source cannot be separated from inside.
+6. **「立証した」 → "established"** in section 4, kept as strong as the original because the correction of 9 September is about exactly that strength.
+7. **「航路」 → "channel,"** following the published English of the third essay, including where the original plays on the word in sections 6 and 8.
+8. **「五回動き、四回とも」 → "five times, and in four of them."** The Japanese can also be read as "all four times"; the reading consistent with five runs was taken.
+
+Structure was checked mechanically: the sequence of headings, rules and paragraphs and the number of bold spans match the Japanese page. The translation-only note is added after the last original paragraph and is marked as not part of the original.
